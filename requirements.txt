@@ -1,0 +1,6 @@
+scipy
+ftfy
+regex
+tqdm
+sklearn
+packaging
